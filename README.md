@@ -1,5 +1,5 @@
 
-# Arabic Pronunciation Checker 🎙️
+# Arabic Pronunciation Checker 
 
 AI-powered Arabic pronunciation evaluation using Wav2Vec2 and Flask.
 
@@ -33,7 +33,7 @@ cd pronunciation-checker
 
 ---
 
-### 2️⃣ Create virtual environment (recommended)
+###  Create virtual environment (recommended)
 
 #### Windows
 
@@ -51,7 +51,7 @@ source venv/bin/activate
 
 ---
 
-### 3️⃣ Install requirements
+###  Install requirements
 
 ```bash
 pip install -r requirements.txt
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the App
+## Running the App
 
 ```bash
 python app.py
